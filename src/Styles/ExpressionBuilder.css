@@ -1,0 +1,184 @@
+.flexbox-container-5{
+    height: auto ;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    /* align-content: stretch; */
+    background-color: #173A5E;
+    border-radius: 20px;
+    overflow: hidden;
+    margin-top: 10px;
+
+}
+
+
+.flexbox-item {
+    width: auto;
+    height: auto;
+    margin: 10px;
+    border: 3px solid #a91e1e;
+    /* background-color: #050607; */
+    border-radius: 10px;
+    overflow: hidden;
+    text-align: center;
+    color: white;
+
+
+}
+
+.flexbox-item-1{
+    min-height: 100px ;
+    min-width: 100px;
+    border: 3px solid #1ea93c;
+    /* flex-basis: 0; */
+    flex-grow: inherit;
+    align-self: stretch;
+    align-content: center;
+
+    margin-right: 0;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+
+    border-right-style: solid;
+    
+    border: 3px solid #a93a1e;
+
+}
+
+
+.flexbox-item-2{
+    min-height: 200px ;
+    min-width: 200px;
+
+    flex-grow: 2;
+    align-self: stretch;
+    margin-left: 0;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    
+    border: 3px ;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-right-style: solid;
+
+
+}
+
+.flexbox-item-3{
+    min-height: 300px ;
+    /* flex-grow: 2; */
+    /* flex-basis: 0; */
+    align-self: stretch;
+}
+
+/* second colume */
+
+
+.flexbox-container-4{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+
+.flexbox-item-4{
+    min-height: 200px ;
+    min-width: 200px;
+    flex-basis: 0;
+
+
+    flex-grow: inherit;
+    align-self: stretch;
+    border: 2px solid;
+    border-radius: 20px;
+}
+
+/* use this one for all */
+.flexbox-item-5{
+    /* min-height: 200px ;
+    flex-basis: 0;
+    flex-grow: 2;
+    align-self: stretch; */
+    min-height: 200px ;
+    /* flex-basis: 0; */
+    flex-grow: inherit;
+    align-self: stretch;
+}
+
+/* Third layer //Menue bar component   */
+.flexbox-container-3{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.flexbox-item-6{
+    min-height: 150px ;
+    min-width: 50px;
+    /* flex-basis: 0; */
+    flex-grow: inherit;
+    align-self: stretch;
+    margin-right: 0;
+    padding-right: 0;
+
+}
+
+.flexbox-item-7{
+    min-height: 100px ;
+    min-width: 350px;
+    flex-grow: 2;
+    align-self: stretch;
+    margin-right: 0;
+    padding-right: 0;
+}
+
+.flexbox-item-7a{
+    min-height: 100px ;
+    min-width: 50px;
+    align-content: stretch;
+    align-self: stretch;
+    margin-right: 0;
+    padding-right: 0;
+}
+
+.flexbox-item-7b{
+    min-height: 100px ;
+    min-width: 50px;
+    /* flex-basis: 0; */
+    /* flex-grow: 1; */
+    align-self: stretch;
+}
+
+/* fourth layer */
+
+.flexbox-container-2{
+    height: auto ;
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: center;
+}
+
+.flexbox-item-8{
+    /* min-height: 150px ;
+    min-width: 250px;
+    flex-basis: 0;
+    flex-grow: 2;
+    align-self: stretch; */
+    min-height: 100px ;
+    min-width: 100px;
+    /* flex-basis: 0; */
+    flex-grow: inherit;
+    align-self: stretch;
+}
+
+.flexbox-item-9{
+    min-height: 200px ;
+    /* flex-basis: 0; */
+    flex-grow: inherit;
+    align-self: stretch;
+}

@@ -1,0 +1,260 @@
+
+/* Grid Css */
+
+.grid-container{
+    height: auto;
+    padding: 10px;
+    /* padding-left: ;  */
+    background-color: #282c34;
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr 2fr;
+    grid-template-rows: 300px inherit inherit inherit; 
+    grid-row-gap: 20px;
+    grid-column-gap: 20px;
+
+    justify-content: center;
+    align-content: center;
+    
+}
+
+/* background-color: #202123; */
+/*   background-color: #282c34; */
+/*     grid-template-columns: 400px 2fr; 
+grid-template-rows: 250px 100px 800px 400px;  */
+
+/* Header */
+.grid-iteams-1{
+    padding: 20px;
+    grid-column-start: 2;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    
+    justify-self: stretch;
+    align-self: center;
+}
+
+/* Operators */
+.grid-iteams-2{
+    padding: 20px;
+    grid-column-start: 2;
+    grid-column-end: 5;
+    grid-row-start: 2;
+    grid-row-end: 3;
+
+    justify-self: start;
+    align-self: end;
+}
+
+/* Cataogrys */
+.grid-iteams-3{
+    padding: 10px;
+    /* grid-column-start: 1; */
+    grid-column-end: 2;
+    grid-row-start: 3;
+    grid-row-end: 4;
+
+    justify-self: end;
+    align-self: stretch;
+}
+
+/* Expression Builder */
+.grid-iteams-4{
+    padding: 10px;
+    grid-column-start: 2;
+    grid-column-end: 5;
+    grid-row-start: 3;
+    grid-row-end: 5;
+
+    /* min-width: 500px; */
+    justify-self: center;
+    align-self: start;
+}
+
+/* send button */
+.grid-iteams-6{
+    padding: 40px;
+    width: inherit;
+    /* grid-column-start: 2;
+    grid-column-end: 5; */
+    grid-column-start: 2;
+    grid-column-end: 5;
+
+    grid-row: auto;
+
+
+    justify-self: stretch;
+    align-self: center;
+    
+}
+
+/* Table */
+/* .grid-iteams-5{
+    padding: 40px;
+    grid-column-start: 2;
+    grid-column-end: 3;
+
+    justify-self: stretch;
+    align-self: end;
+} */
+
+/* Table */
+.grid-iteams-7{
+    padding: 10px;
+    grid-column-start: 2;
+    grid-column-end: 5;
+    grid-row: auto;
+
+    justify-self: stretch;
+    align-self: right;
+}
+/* ----------------------------------------- */
+
+/* FlexBox CSS */
+.flexbox-container1{
+  display: flex;
+  background-color: rgb(27, 32, 37);
+
+  
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+}
+
+.flexbox-container2{
+
+    display: flex;
+    background-color: rgb(19, 26, 34);
+
+    justify-content: start;
+    flex-direction: column;
+    align-items: start;
+  }
+
+
+.flexbox-iteam {
+      margin: 10px;
+      padding: 20px;
+      
+}
+
+.flexbox-item-1{
+  flex-shrink: 0; /*only for rows*/
+}
+
+.flexbox-item-2{
+    flex-shrink: 0; /*only for rows*/
+    align-self: center;
+  }
+
+.flexbox-item-4{
+    flex-grow: 2;
+}
+
+
+.colorText{
+
+
+    background-color: #c6ccd2;
+
+    background-color: #173A5E;
+    background-color: #46505A;
+    background-color: #001E3C;
+    background-color: #009688;
+    background-color: #c6ccd2;
+
+}
+
+/* .background: {
+    paper: '#fff',
+  },
+.text: {
+    primary: '#173A5E',
+    secondary: '#46505A',
+  },
+.action: {
+    active: '#001E3C',
+  },
+.success: {
+    dark: '#009688',
+  },
+}, */
+
+/* Colors 
+
+App background: #282c34
+Button colors: 
+Paper colors: 
+
+*/
+
+
+
+
+
+
+/* Grid BOX Css */
+
+.grid-box{
+    /* height: fit-content;
+    width: fit-content; */
+    /* padding: 10px; */
+    margin-top: 10px;
+    /* background-color: #000000; */
+    display: grid;
+    grid-template-columns: auto auto; /*Two coloums grid*/
+    grid-template-rows: auto auto; /*Four rows grid*/
+
+    justify-content: stretch;
+    align-content: stretch;
+}
+
+/* background-color: #202123; */
+
+
+/* Operators */
+.grid-iteam-box-1{
+    /* padding: 10px; */
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    
+    justify-self: stretch;
+    align-self: center;
+    border-right-color: #009688;
+    border-width: 40px;
+}
+
+/* Operends */
+.grid-iteam-box-2{
+    /* padding: 10px; */
+    padding-left: 20px;
+    padding-bottom: 10px;
+    grid-column-start: 2;
+    grid-column-end: 3;
+ 
+
+    justify-self: start;
+    align-self: center;
+}
+
+/* 
+.grid-iteam-box-3{
+
+    padding-left: 20px;
+    padding-bottom: 10px;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 3;
+
+    justify-self: start;
+    align-self: center;
+} */
+
+
+
+
+
+

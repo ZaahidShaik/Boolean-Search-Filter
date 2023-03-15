@@ -1,0 +1,145 @@
+/* Third layer //Menue bar component   */
+.flexbox-container-contry{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 0;
+    align-items: center;
+
+
+}
+
+.flexbox-side-label{
+    min-height: 150px ;
+    min-width: 50px;
+
+
+    flex-grow: inherit;
+    align-self: stretch;
+    margin-right: 0;
+    padding-right: 0;
+
+    padding-top: 0;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+
+    border-right-style: solid;
+    
+    border: 2px solid #1ea93c;
+}
+
+.flexbox-item-7{
+    min-height: 100px ;
+    min-width: 250px;
+    justify-items: end;
+    align-content: end;
+    flex-grow: 2;
+    align-self: stretch;
+
+    padding-top: 0;
+    margin-right: 0;
+    padding-right: 0;
+    margin-left: 0px;
+
+    padding-left: 0;
+    border-radius: 0px;
+    overflow: hidden;
+    border: 2px ;
+    border-top-style: solid;
+    border-bottom-style: solid;
+
+}
+
+.flexbox-item-7a{
+    min-height: 100px ;
+    min-width: 100px;
+    align-content: center;
+    align-self: stretch;
+    margin-right: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-left: -10px;
+    padding-left: 0;
+    border-radius: 0px;
+    overflow: hidden;
+    border: 2px ;
+    border-top-style: solid;
+    border-bottom-style: solid;
+}
+
+.flexbox-action-center{
+    min-height: 100px ;
+    min-width: 50px;
+    align-content: stretch;
+    align-self: stretch;
+    margin-left: -10px;
+    padding-left: 0;
+    /* margin-top: 0; */
+    padding-top: 0;
+    padding-bottom: 0;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    overflow: hidden;
+    border: 2px ;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-right-style: solid;
+
+}
+
+
+
+.flex-button-containor{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    justify-content: center;
+    height: inherit;
+}
+
+
+.flexbox-item-dropdown, 
+.flexbox-items-text{
+    margin: 10px;
+    padding-right: 0;
+    border: 2px ;
+
+}
+
+/* .flexbox-items-operator-dropdown, */
+.flex-label-containor,
+.flex-text-containor{
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+    justify-content: center;
+    height: inherit;
+    width: inherit;
+    align-content: center;
+    align-self: center;
+    margin-left: 20px;
+    margin-left: 20px;
+
+}
+.flex-label-containor{
+    margin-left: 5px;
+    margin-left: 5px;
+}
+
+.flexbox-item-delete{
+    margin-top: 20px;
+    border: 2px ;
+}
+
+.flexbox-items-operator-dropdown{
+    margin-top: 10%;
+
+    align-self: center;
+    justify-self: center;
+    border: 2px ;
+}

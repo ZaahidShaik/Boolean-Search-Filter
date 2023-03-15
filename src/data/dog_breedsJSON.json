@@ -1,0 +1,2841 @@
+[
+    {
+        "Breed": "Labrador Retriever",
+        "CountryofOrigin": "Canada",
+        "FurColor": [
+            "Yellow",
+            "Black",
+            "Chocolate"
+        ],
+        "Height": 35,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Loyal",
+            "friendly",
+            "intelligent",
+            "energetic",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Hip dysplasia",
+            "obesity",
+            "ear infections"
+        ]
+    },
+    {
+        "Breed": "German Shepherd",
+        "CountryofOrigin": "Germany",
+        "FurColor": [
+            "Black",
+            "Tan"
+        ],
+        "Height": 36,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Loyal",
+            "intelligent",
+            "protective",
+            "confident",
+            "trainable"
+        ],
+        "CommonHealthProblems": [
+            "Hip dysplasia",
+            "elbow dysplasia",
+            "pancreatitis"
+        ]
+    },
+    {
+        "Breed": "Bulldog",
+        "CountryofOrigin": "England",
+        "FurColor": [
+            "White",
+            "Red"
+        ],
+        "Height": 28,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Loyal",
+            "calm",
+            "gentle",
+            "brave"
+        ],
+        "CommonHealthProblems": [
+            "Skin allergies",
+            "respiratory issues",
+            "obesity"
+        ]
+    },
+    {
+        "Breed": "Poodle",
+        "CountryofOrigin": "France",
+        "FurColor": [
+            "White",
+            "Black",
+            "Brown",
+            "Apricot"
+        ],
+        "Height": 34,
+        "ColorofEyes": [
+            "Brown",
+            "Blue"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "active",
+            "affectionate",
+            "hypoallergenic"
+        ],
+        "CommonHealthProblems": [
+            "Hip dysplasia",
+            "epilepsy",
+            "bladder stones"
+        ]
+    },
+    {
+        "Breed": "Beagle",
+        "CountryofOrigin": "England",
+        "FurColor": [
+            "White",
+            "Tan",
+            "Red",
+            "Lemon"
+        ],
+        "Height": 33,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Curious",
+            "friendly",
+            "energetic",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Ear infections",
+            "hip dysplasia",
+            "epilepsy"
+        ]
+    },
+    {
+        "Breed": "Chihuahua",
+        "CountryofOrigin": "Mexico",
+        "FurColor": [
+            "Black",
+            "Brown",
+            "Tan",
+            "White"
+        ],
+        "Height": 28,
+        "ColorofEyes": [
+            "Brown",
+            "Blue"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Loyal",
+            "energetic",
+            "confident",
+            "sensitive"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "respiratory issues"
+        ]
+    },
+    {
+        "Breed": "Boxer",
+        "CountryofOrigin": "Germany",
+        "FurColor": [
+            "Fawn",
+            "Brindle"
+        ],
+        "Height": 27,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Loyal",
+            "energetic",
+            "intelligent",
+            "playful",
+            "protective"
+        ],
+        "CommonHealthProblems": [
+            "Hip dysplasia",
+            "cancer",
+            "heart conditions"
+        ]
+    },
+    {
+        "Breed": "Golden Retriever",
+        "CountryofOrigin": "Scotland",
+        "FurColor": [
+            "Golden"
+        ],
+        "Height": 36,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "friendly",
+            "kind",
+            "loyal",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Hip dysplasia",
+            "cancer",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Pug",
+        "CountryofOrigin": "China",
+        "FurColor": [
+            "Fawn",
+            "Black"
+        ],
+        "Height": 32,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Loyal",
+            "playful",
+            "affectionate",
+            "social",
+            "charming"
+        ],
+        "CommonHealthProblems": [
+            "Eye problems",
+            "respiratory issues",
+            "obesity"
+        ]
+    },
+    {
+        "Breed": "Rottweiler",
+        "CountryofOrigin": "Germany",
+        "FurColor": [
+            "Black",
+            "Tan"
+        ],
+        "Height": 36,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Loyal",
+            "protective",
+            "confident",
+            "strong"
+        ],
+        "CommonHealthProblems": [
+            "Hip dysplasia",
+            "cancer",
+            "elbow dysplasia"
+        ]
+    },
+    {
+        "Breed": "Siberian Husky",
+        "CountryofOrigin": "Russia",
+        "FurColor": [
+            "Black",
+            "White"
+        ],
+        "Height": 32,
+        "ColorofEyes": "Blue",
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Independent",
+            "energetic",
+            "intelligent",
+            "playful",
+            "strong"
+        ],
+        "CommonHealthProblems": [
+            "Hip dysplasia",
+            "eye problems",
+            "hereditary myopathy"
+        ]
+    },
+    {
+        "Breed": "Dachshund",
+        "CountryofOrigin": "Germany",
+        "FurColor": [
+            "Black",
+            "Tan"
+        ],
+        "Height": 28,
+        "ColorofEyes": [
+            "Brown",
+            "Blue"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Loyal",
+            "energetic",
+            "playful",
+            "curious"
+        ],
+        "CommonHealthProblems": [
+            "Intervertebral disc disease",
+            "hip dysplasia",
+            "diabetes"
+        ]
+    },
+    {
+        "Breed": "Shih Tzu",
+        "CountryofOrigin": "China",
+        "FurColor": [
+            "Black",
+            "White",
+            "Brown"
+        ],
+        "Height": 36,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Affectionate",
+            "playful",
+            "confident",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "respiratory issues",
+            "eye problems"
+        ]
+    },
+    {
+        "Breed": "Bichon Frise",
+        "CountryofOrigin": "France",
+        "FurColor": [
+            "White"
+        ],
+        "Height": 32,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Playful",
+            "affectionate",
+            "intelligent",
+            "social"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye problems",
+            "bladder stones"
+        ]
+    },
+    {
+        "Breed": "Australian Shepherd",
+        "CountryofOrigin": "Australia",
+        "FurColor": [
+            "Black",
+            "Red"
+        ],
+        "Height": 32,
+        "ColorofEyes": [
+            "Brown",
+            "Blue"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "loyal",
+            "trainable"
+        ],
+        "CommonHealthProblems": [
+            "Hip dysplasia",
+            "eye problems",
+            "epilepsy"
+        ]
+    },
+    {
+        "Breed": "Basset Hound",
+        "CountryofOrigin": "France",
+        "FurColor": [
+            "Black",
+            "Tan"
+        ],
+        "Height": 27,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Affectionate",
+            "patient",
+            "gentle",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "ear infections",
+            "obesity"
+        ]
+    },
+    {
+        "Breed": "Cocker Spaniel",
+        "CountryofOrigin": "England",
+        "FurColor": [
+            "Black",
+            "Brown"
+        ],
+        "Height": 36,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Affectionate",
+            "intelligent",
+            "energetic",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Ear infections",
+            "hip dysplasia",
+            "eye problems"
+        ]
+    },
+    {
+        "Breed": "French Bulldog",
+        "CountryofOrigin": "France",
+        "FurColor": [
+            "White",
+            "Black",
+            "Brindle"
+        ],
+        "Height": 34,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Affectionate",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Breathing problems",
+            "eye problems",
+            "hip dysplasia"
+        ]
+    },
+    {
+        "Breed": "Pomeranian",
+        "CountryofOrigin": "Germany",
+        "FurColor": [
+            "Orange",
+            "Sable",
+            "Black"
+        ],
+        "Height": 28,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Playful",
+            "energetic",
+            "intelligent",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye problems",
+            "obesity"
+        ]
+    },
+    {
+        "Breed": "Great Dane",
+        "CountryofOrigin": "Germany",
+        "FurColor": [
+            "Black",
+            "Blue",
+            "Fawn",
+            "Harlequin"
+        ],
+        "Height": 31,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Gentle",
+            "loyal",
+            "intelligent",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Hip dysplasia",
+            "cancer",
+            "heart conditions"
+        ]
+    },
+    {
+        "Breed": "Mastiff",
+        "CountryofOrigin": "England",
+        "FurColor": [
+            "Apricot",
+            "Fawn"
+        ],
+        "Height": 35,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Loyal",
+            "gentle",
+            "protective",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Hip dysplasia",
+            "heart conditions",
+            "cancer"
+        ]
+    },
+    {
+        "Breed": "Newfoundland",
+        "CountryofOrigin": "Canada",
+        "FurColor": [
+            "Black",
+            "Brown",
+            "Grey"
+        ],
+        "Height": 35,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Loyal",
+            "intelligent",
+            "gentle",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Hip dysplasia",
+            "heart conditions",
+            "cancer"
+        ]
+    },
+    {
+        "Breed": "Saint Bernard",
+        "CountryofOrigin": "Switzerland",
+        "FurColor": [
+            "Red",
+            "White"
+        ],
+        "Height": 37,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Loyal",
+            "intelligent",
+            "gentle",
+            "protective"
+        ],
+        "CommonHealthProblems": [
+            "Hip dysplasia",
+            "cancer",
+            "heart conditions"
+        ]
+    },
+    {
+        "Breed": "Old English Sheepdog",
+        "CountryofOrigin": "England",
+        "FurColor": [
+            "Blue",
+            "Grey"
+        ],
+        "Height": 27,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Gentle",
+            "intelligent",
+            "good-natured",
+            "protective"
+        ],
+        "CommonHealthProblems": [
+            "Hip dysplasia",
+            "eye problems",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Irish Wolfhound",
+        "CountryofOrigin": "Ireland",
+        "FurColor": [
+            "Grey",
+            "Red",
+            "Black"
+        ],
+        "Height": 34,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Gentle",
+            "loyal",
+            "intelligent",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Hip dysplasia",
+            "heart conditions",
+            "cancer"
+        ]
+    },
+    {
+        "Breed": "Greyhound",
+        "CountryofOrigin": "England",
+        "FurColor": [
+            "Black",
+            "White",
+            "Brindle"
+        ],
+        "Height": 32,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "athletic",
+            "sensitive",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Hip dysplasia",
+            "eye problems",
+            "heart conditions"
+        ]
+    },
+    {
+        "Breed": "Scottish Deerhound",
+        "CountryofOrigin": "Scotland",
+        "FurColor": [
+            "Blue",
+            "Grey"
+        ],
+        "Height": 30,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Gentle",
+            "intelligent",
+            "good-natured",
+            "independent"
+        ],
+        "CommonHealthProblems": [
+            "Hip dysplasia",
+            "heart conditions",
+            "cancer"
+        ]
+    },
+    {
+        "Breed": "Great Pyrenees",
+        "CountryofOrigin": "France",
+        "FurColor": [
+            "White"
+        ],
+        "Height": 28,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Loyal",
+            "intelligent",
+            "gentle",
+            "protective"
+        ],
+        "CommonHealthProblems": [
+            "Hip dysplasia",
+            "cancer",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Shar Pei",
+        "CountryofOrigin": "China",
+        "FurColor": [
+            "Cream",
+            "Fawn"
+        ],
+        "Height": 27,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Independent",
+            "loyal",
+            "intelligent",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Skin allergies",
+            "eye problems",
+            "hip dysplasia"
+        ]
+    },
+    {
+        "Breed": "Doberman Pinscher",
+        "CountryofOrigin": "Germany",
+        "FurColor": [
+            "Black",
+            "Red"
+        ],
+        "Height": 28,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Loyal",
+            "energetic",
+            "intelligent",
+            "protective"
+        ],
+        "CommonHealthProblems": [
+            "Hip dysplasia",
+            "heart conditions",
+            "cancer"
+        ]
+    },
+    {
+        "Breed": "Weimaraner",
+        "CountryofOrigin": "Germany",
+        "FurColor": [
+            "Silver",
+            "Grey"
+        ],
+        "Height": 29,
+        "ColorofEyes": [
+            "Blue",
+            "Grey"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Energetic",
+            "intelligent",
+            "good-natured",
+            "loyal"
+        ],
+        "CommonHealthProblems": [
+            "Hip dysplasia",
+            "eye problems",
+            "cancer"
+        ]
+    },
+    {
+        "Breed": "Belgian Malinois",
+        "CountryofOrigin": "Belgium",
+        "FurColor": [
+            "Fawn",
+            "Mahogany"
+        ],
+        "Height": 36,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "loyal",
+            "protective"
+        ],
+        "CommonHealthProblems": [
+            "Hip dysplasia",
+            "eye problems",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Rhodesian Ridgeback",
+        "CountryofOrigin": "Rhodesia",
+        "FurColor": [
+            "Light",
+            "Wheaten"
+        ],
+        "Height": 30,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "athletic",
+            "loyal",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Hip dysplasia",
+            "eye problems",
+            "cancer"
+        ]
+    },
+    {
+        "Breed": "English Setter",
+        "CountryofOrigin": "England",
+        "FurColor": [
+            "Black",
+            "White",
+            "Liver"
+        ],
+        "Height": 29,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "affectionate",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Hip dysplasia",
+            "eye problems",
+            "cancer"
+        ]
+    },
+    {
+        "Breed": "Pointer",
+        "CountryofOrigin": "England",
+        "FurColor": [
+            "Black",
+            "White",
+            "Liver"
+        ],
+        "Height": 30,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "good-natured",
+            "affectionate"
+        ],
+        "CommonHealthProblems": [
+            "Hip dysplasia",
+            "eye problems",
+            "cancer"
+        ]
+    },
+    {
+        "Breed": "Gordon Setter",
+        "CountryofOrigin": "Scotland",
+        "FurColor": [
+            "Black",
+            "Tan"
+        ],
+        "Height": 32,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "good-natured",
+            "affectionate"
+        ],
+        "CommonHealthProblems": [
+            "Hip dysplasia",
+            "eye problems",
+            "cancer"
+        ]
+    },
+    {
+        "Breed": "Irish Setter",
+        "CountryofOrigin": "Ireland",
+        "FurColor": [
+            "Red"
+        ],
+        "Height": 35,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "good-natured",
+            "affectionate"
+        ],
+        "CommonHealthProblems": [
+            "Hip dysplasia",
+            "eye problems",
+            "cancer"
+        ]
+    },
+    {
+        "Breed": "Papillon",
+        "CountryofOrigin": "France",
+        "FurColor": [
+            "White",
+            "Black",
+            "Sable",
+            "Red"
+        ],
+        "Height": 28,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": "14-16",
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "affectionate",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye problems",
+            "bladder stones"
+        ]
+    },
+    {
+        "Breed": "Pekingese",
+        "CountryofOrigin": "China",
+        "FurColor": [
+            "Black",
+            "White",
+            "Red"
+        ],
+        "Height": 27,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Independent",
+            "intelligent",
+            "affectionate",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "respiratory issues",
+            "eye problems"
+        ]
+    },
+    {
+        "Breed": "Toy Poodle",
+        "CountryofOrigin": "France",
+        "FurColor": [
+            "White",
+            "Black",
+            "Brown",
+            "Apricot"
+        ],
+        "Height": 35,
+        "ColorofEyes": [
+            "Brown",
+            "Blue"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "active",
+            "affectionate",
+            "hypoallergenic"
+        ],
+        "CommonHealthProblems": [
+            "Hip dysplasia",
+            "epilepsy",
+            "bladder stones"
+        ]
+    },
+    {
+        "Breed": "Miniature Poodle",
+        "CountryofOrigin": "France",
+        "FurColor": [
+            "White",
+            "Black",
+            "Brown",
+            "Apricot"
+        ],
+        "Height": 37,
+        "ColorofEyes": [
+            "Brown",
+            "Blue"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "active",
+            "affectionate",
+            "hypoallergenic"
+        ],
+        "CommonHealthProblems": [
+            "Hip dysplasia",
+            "epilepsy",
+            "bladder stones"
+        ]
+    },
+    {
+        "Breed": "Standard Poodle",
+        "CountryofOrigin": "France",
+        "FurColor": [
+            "White",
+            "Black",
+            "Brown",
+            "Apricot"
+        ],
+        "Height": 28,
+        "ColorofEyes": [
+            "Brown",
+            "Blue"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "active",
+            "affectionate",
+            "hypoallergenic"
+        ],
+        "CommonHealthProblems": [
+            "Hip dysplasia",
+            "epilepsy",
+            "bladder stones"
+        ]
+    },
+    {
+        "Breed": "Affenpinscher",
+        "CountryofOrigin": "Germany",
+        "FurColor": [
+            "Black",
+            "Brown",
+            "Red"
+        ],
+        "Height": 35,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye problems",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Boston Terrier",
+        "CountryofOrigin": "United States",
+        "FurColor": [
+            "Black",
+            "White"
+        ],
+        "Height": 34,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "affectionate",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Eye problems",
+            "respiratory issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Brussels Griffon",
+        "CountryofOrigin": "Belgium",
+        "FurColor": [
+            "Black",
+            "Red"
+        ],
+        "Height": 32,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "affectionate",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye problems",
+            "respiratory issues"
+        ]
+    },
+    {
+        "Breed": "Cairn Terrier",
+        "CountryofOrigin": "Scotland",
+        "FurColor": [
+            "Black",
+            "Wheaten",
+            "Red"
+        ],
+        "Height": 37,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye problems",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Chinese Crested",
+        "CountryofOrigin": "China",
+        "FurColor": [
+            "Pink",
+            "White",
+            "Black"
+        ],
+        "Height": 33,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": "13-18",
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "affectionate",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye problems",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Miniature Schnauzer",
+        "CountryofOrigin": "Germany",
+        "FurColor": [
+            "Black",
+            "Salt & Pepper",
+            "White"
+        ],
+        "Height": 37,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "pancreatitis",
+            "diabetes"
+        ]
+    },
+    {
+        "Breed": "Standard Schnauzer",
+        "CountryofOrigin": "Germany",
+        "FurColor": [
+            "Black",
+            "Salt & Pepper"
+        ],
+        "Height": 32,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "pancreatitis",
+            "diabetes"
+        ]
+    },
+    {
+        "Breed": "West Highland White Terrier",
+        "CountryofOrigin": "Scotland",
+        "FurColor": [
+            "White"
+        ],
+        "Height": 33,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "skin allergies",
+            "hip dysplasia"
+        ]
+    },
+    {
+        "Breed": "Australian Terrier",
+        "CountryofOrigin": "Australia",
+        "FurColor": [
+            "Red",
+            "Black&Tan"
+        ],
+        "Height": 34,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "skin allergies",
+            "hip dysplasia"
+        ]
+    },
+    {
+        "Breed": "Border Terrier",
+        "CountryofOrigin": "England",
+        "FurColor": [
+            "Red",
+            "Wheaten",
+            "Black"
+        ],
+        "Height": 37,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "skin allergies",
+            "hip dysplasia"
+        ]
+    },
+    {
+        "Breed": "Coton de Tulear",
+        "CountryofOrigin": "Madagascar",
+        "FurColor": [
+            "White"
+        ],
+        "Height": 31,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "skin allergies",
+            "hip dysplasia"
+        ]
+    },
+    {
+        "Breed": "English Toy Spaniel",
+        "CountryofOrigin": "England",
+        "FurColor": [
+            "White",
+            "Blenheim"
+        ],
+        "Height": 29,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "skin allergies",
+            "hip dysplasia"
+        ]
+    },
+    {
+        "Breed": "Australian Stumpy Tail Cattle Dog",
+        "CountryofOrigin": "Australia",
+        "FurColor": [
+            "Red",
+            "Black"
+        ],
+        "Height": 30,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "good-natured",
+            "loyal"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Pug",
+        "CountryofOrigin": "China",
+        "FurColor": [
+            "Black",
+            "Fawn"
+        ],
+        "Height": 35,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "respiratory issues",
+            "eye problems"
+        ]
+    },
+    {
+        "Breed": "American Eskimo Dog",
+        "CountryofOrigin": "United States",
+        "FurColor": [
+            "White"
+        ],
+        "Height": 37,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "skin allergies",
+            "hip dysplasia"
+        ]
+    },
+    {
+        "Breed": "Australian Cattle Dog",
+        "CountryofOrigin": "Australia",
+        "FurColor": [
+            "Blue",
+            "Red"
+        ],
+        "Height": 36,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "skin allergies",
+            "hip dysplasia"
+        ]
+    },
+    {
+        "Breed": "Basset Hound",
+        "CountryofOrigin": "France",
+        "FurColor": [
+            "Black",
+            "White",
+            "Red"
+        ],
+        "Height": 31,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Gentle",
+            "good-natured",
+            "loyal",
+            "intelligent"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Australian Kelpie",
+        "CountryofOrigin": "Australia",
+        "FurColor": [
+            "Red",
+            "Black"
+        ],
+        "Height": 34,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "good-natured",
+            "loyal"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Bloodhound",
+        "CountryofOrigin": "England",
+        "FurColor": [
+            "Red",
+            "Black"
+        ],
+        "Height": 29,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Loyal",
+            "intelligent",
+            "good-natured",
+            "energetic"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Border Collie",
+        "CountryofOrigin": "England",
+        "FurColor": [
+            "Black",
+            "White",
+            "Red"
+        ],
+        "Height": 36,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Australian Shepherd",
+        "CountryofOrigin": "Australia",
+        "FurColor": [
+            "Blue",
+            "Merle"
+        ],
+        "Height": 31,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "good-natured",
+            "loyal"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "American Bulldog",
+        "CountryofOrigin": "United States",
+        "FurColor": [
+            "White",
+            "Red"
+        ],
+        "Height": 31,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Loyal",
+            "intelligent",
+            "good-natured",
+            "energetic"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Australian Shepherd",
+        "CountryofOrigin": "Australia",
+        "FurColor": [
+            "Black",
+            "Red"
+        ],
+        "Height": 31,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "skin allergies",
+            "hip dysplasia"
+        ]
+    },
+    {
+        "Breed": "Borzoi",
+        "CountryofOrigin": "Russia",
+        "FurColor": [
+            "White",
+            "Cream",
+            "Red"
+        ],
+        "Height": 37,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Gentle",
+            "good-natured",
+            "loyal",
+            "intelligent"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Bull Terrier",
+        "CountryofOrigin": "England",
+        "FurColor": [
+            "White",
+            "Red"
+        ],
+        "Height": 27,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Loyal",
+            "intelligent",
+            "good-natured",
+            "energetic"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Cane Corso",
+        "CountryofOrigin": "Italy",
+        "FurColor": [
+            "Black",
+            "Red"
+        ],
+        "Height": 27,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Loyal",
+            "intelligent",
+            "good-natured",
+            "energetic"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Cardigan Welsh Corgi",
+        "CountryofOrigin": "Wales",
+        "FurColor": [
+            "Red",
+            "Sable",
+            "Black"
+        ],
+        "Height": 33,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Chesapeake Bay Retriever",
+        "CountryofOrigin": "United States",
+        "FurColor": [
+            "Brown",
+            "Tan"
+        ],
+        "Height": 35,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Saluki",
+        "CountryofOrigin": "Middle East",
+        "FurColor": [
+            "Cream",
+            "Red"
+        ],
+        "Height": 35,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "good-natured",
+            "loyal"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "English Setter",
+        "CountryofOrigin": "England",
+        "FurColor": [
+            "Liver",
+            "Blue"
+        ],
+        "Height": 30,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "English Springer Spaniel",
+        "CountryofOrigin": "England",
+        "FurColor": [
+            "Black",
+            "White",
+            "Liver"
+        ],
+        "Height": 34,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Field Spaniel",
+        "CountryofOrigin": "England",
+        "FurColor": [
+            "Black",
+            "Liver"
+        ],
+        "Height": 31,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Finnish Spitz",
+        "CountryofOrigin": "Finland",
+        "FurColor": [
+            "Red",
+            "Golden"
+        ],
+        "Height": 30,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Flat-Coated Retriever",
+        "CountryofOrigin": "England",
+        "FurColor": [
+            "Black",
+            "Liver"
+        ],
+        "Height": 29,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Australian Terrier",
+        "CountryofOrigin": "Australia",
+        "FurColor": [
+            "Red"
+        ],
+        "Height": 37,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Giant Schnauzer",
+        "CountryofOrigin": "Germany",
+        "FurColor": [
+            "Black",
+            "Salt & Pepper"
+        ],
+        "Height": 28,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Loyal",
+            "intelligent",
+            "good-natured",
+            "energetic"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Golden Retriever",
+        "CountryofOrigin": "Scotland",
+        "FurColor": [
+            "Gold"
+        ],
+        "Height": 37,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Gordon Setter",
+        "CountryofOrigin": "Scotland",
+        "FurColor": [
+            "Black",
+            "Tan"
+        ],
+        "Height": 29,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Australian Cattle Dog",
+        "CountryofOrigin": "Australia",
+        "FurColor": [
+            "Blue",
+            "Red"
+        ],
+        "Height": 31,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "good-natured",
+            "loyal"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Greyhound",
+        "CountryofOrigin": "England",
+        "FurColor": [
+            "White",
+            "Black",
+            "Red"
+        ],
+        "Height": 28,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "good-natured",
+            "loyal"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Harrier",
+        "CountryofOrigin": "England",
+        "FurColor": [
+            "Red",
+            "Black&Tan"
+        ],
+        "Height": 34,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Irish Setter",
+        "CountryofOrigin": "Ireland",
+        "FurColor": [
+            "Red"
+        ],
+        "Height": 37,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Irish Terrier",
+        "CountryofOrigin": "Ireland",
+        "FurColor": [
+            "Red"
+        ],
+        "Height": 31,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Irish Water Spaniel",
+        "CountryofOrigin": "Ireland",
+        "FurColor": [
+            "Brown"
+        ],
+        "Height": 31,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Irish Wolfhound",
+        "CountryofOrigin": "Ireland",
+        "FurColor": [
+            "Grey",
+            "Red"
+        ],
+        "Height": 29,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Loyal",
+            "intelligent",
+            "good-natured",
+            "energetic"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Italian Greyhound",
+        "CountryofOrigin": "Italy",
+        "FurColor": [
+            "Red",
+            "Black"
+        ],
+        "Height": 36,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Jack Russell Terrier",
+        "CountryofOrigin": "England",
+        "FurColor": [
+            "White",
+            "Black&Tan"
+        ],
+        "Height": 37,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Japanese Chin",
+        "CountryofOrigin": "Japan",
+        "FurColor": [
+            "Black",
+            "Red"
+        ],
+        "Height": 27,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Keeshond",
+        "CountryofOrigin": "Netherlands",
+        "FurColor": [
+            "Black",
+            "Cream"
+        ],
+        "Height": 37,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Kerry Blue Terrier",
+        "CountryofOrigin": "Ireland",
+        "FurColor": [
+            "Blue"
+        ],
+        "Height": 37,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Kuvasz",
+        "CountryofOrigin": "Hungary",
+        "FurColor": [
+            "White"
+        ],
+        "Height": 36,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Loyal",
+            "intelligent",
+            "good-natured",
+            "energetic"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Lhasa Apso",
+        "CountryofOrigin": "Tibet",
+        "FurColor": [
+            "Black",
+            "White"
+        ],
+        "Height": 37,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Maltese",
+        "CountryofOrigin": "Malta",
+        "FurColor": [
+            "White"
+        ],
+        "Height": 35,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Miniature Pinscher",
+        "CountryofOrigin": "Germany",
+        "FurColor": [
+            "Red",
+            "StagRed"
+        ],
+        "Height": 35,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Samoyed",
+        "CountryofOrigin": "Russia",
+        "FurColor": [
+            "White"
+        ],
+        "Height": 32,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Shetland Sheepdog",
+        "CountryofOrigin": "Scotland",
+        "FurColor": [
+            "Sable",
+            "Black"
+        ],
+        "Height": 35,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Staffordshire Bull Terrier",
+        "CountryofOrigin": "England",
+        "FurColor": [
+            "White",
+            "Black",
+            "Red"
+        ],
+        "Height": 30,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Vizsla",
+        "CountryofOrigin": "Hungary",
+        "FurColor": [
+            "Red"
+        ],
+        "Height": 35,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Anatolian Shepherd",
+        "CountryofOrigin": "Turkey",
+        "FurColor": [
+            "Fawn"
+        ],
+        "Height": 35,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Loyal",
+            "intelligent",
+            "good-natured",
+            "energetic"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Welsh Corgi",
+        "CountryofOrigin": "Wales",
+        "FurColor": [
+            "Red",
+            "Sable"
+        ],
+        "Height": 33,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Welsh Springer Spaniel",
+        "CountryofOrigin": "Wales",
+        "FurColor": [
+            "Liver",
+            "White"
+        ],
+        "Height": 31,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Welsh Terrier",
+        "CountryofOrigin": "Wales",
+        "FurColor": [
+            "Black",
+            "Tan"
+        ],
+        "Height": 33,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "West Highland",
+        "CountryofOrigin": "Scotland",
+        "FurColor": [
+            "White"
+        ],
+        "Height": 32,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Whippet",
+        "CountryofOrigin": "England",
+        "FurColor": [
+            "White",
+            "Black",
+            "Red"
+        ],
+        "Height": 36,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "good-natured",
+            "loyal"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Wirehaired Pointing Griffon",
+        "CountryofOrigin": "Belgium",
+        "FurColor": [
+            "Brown",
+            "White"
+        ],
+        "Height": 33,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Xoloitzcuintli",
+        "CountryofOrigin": "Mexico",
+        "FurColor": [
+            "Black",
+            "Red"
+        ],
+        "Height": 31,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Yorkshire Terrier",
+        "CountryofOrigin": "England",
+        "FurColor": [
+            "Blue",
+            "Tan"
+        ],
+        "Height": 34,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Akita",
+        "CountryofOrigin": "Japan",
+        "FurColor": [
+            "Red",
+            "Fawn",
+            "Sesame"
+        ],
+        "Height": 33,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Loyal",
+            "intelligent",
+            "good-natured",
+            "energetic"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Africanis",
+        "CountryofOrigin": "Africa",
+        "FurColor": [
+            "Brown",
+            "Red"
+        ],
+        "Height": 34,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "good-natured",
+            "loyal"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Basenji",
+        "CountryofOrigin": "Congo",
+        "FurColor": [
+            "Red",
+            "Black",
+            "White"
+        ],
+        "Height": 27,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Catahoula Leopard Dog",
+        "CountryofOrigin": "United States",
+        "FurColor": [
+            "Merle",
+            "Black"
+        ],
+        "Height": 29,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "good-natured",
+            "loyal"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Cocker Spaniel",
+        "CountryofOrigin": "England",
+        "FurColor": [
+            "Black",
+            "Brown"
+        ],
+        "Height": 36,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Miniature Shiba Inu",
+        "CountryofOrigin": "Japan",
+        "FurColor": [
+            "Red",
+            "Sesame"
+        ],
+        "Height": 31,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "playful",
+            "good-natured"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Belgian Tervuren",
+        "CountryofOrigin": "Belgium",
+        "FurColor": [
+            "Fawn"
+        ],
+        "Height": 36,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "good-natured",
+            "loyal"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    },
+    {
+        "Breed": "Pharaoh Hound",
+        "CountryofOrigin": "Malta",
+        "FurColor": [
+            "Red"
+        ],
+        "Height": 33,
+        "ColorofEyes": [
+            "Brown"
+        ],
+        "Longevity": 23,
+        "CharacterTraits": [
+            "Intelligent",
+            "energetic",
+            "good-natured",
+            "loyal"
+        ],
+        "CommonHealthProblems": [
+            "Dental problems",
+            "eye issues",
+            "skin allergies"
+        ]
+    }
+]

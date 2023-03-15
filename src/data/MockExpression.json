@@ -1,0 +1,46 @@
+[
+    {
+        "Id": 1,
+        "type": "Expression",
+        "operator": "OR",
+        "operand": [
+            {
+                "operendType": "Contry",
+                "opId": 0,
+                "value": [
+                    "England"
+                ]
+            },
+            {
+                "operendType": "Contry",
+                "opId": 1,
+                "value": [
+                    "Happy",
+                    "Jumpy"
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 0,
+        "type": "Expression",
+        "operator": "AND",
+        "operand": [
+            {
+                "operendType": "",
+                "opId": 0,
+                "value": [
+                    "USA",
+                    "India"
+                ]
+            },
+            {
+                "operendType": "",
+                "opId": 1,
+                "value": [
+                    "1"
+                ]
+            }
+        ]
+    }
+]
